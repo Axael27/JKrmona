@@ -21,7 +21,7 @@
     <form action="" method="post">
         <label for="">
             <input type="text" id="Name">
-        cd</label>
+        </label>
 
         
     </form>
